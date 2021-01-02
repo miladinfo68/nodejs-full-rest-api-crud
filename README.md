@@ -20,9 +20,9 @@
 # 9_ POST   : localhost:4000/api/add  select body==>row==>JSON  after that make json object for example
 
  {
-  "userName": "zahra@jalali.com",
+  "userName": "somthing@vvv.com",
    "password": "123456",
-   "fullName": "zahra jalali",
+   "fullName": "some body",
    "mobile":"0000000000"
  }
 
