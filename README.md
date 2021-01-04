@@ -1,16 +1,16 @@
 # nodejs-full-rest-api-crud
 
-#hello guys this is a full rest nodejs api 
-#to use this api follow thes steps
-# 1_ go to https://nodejs.org/en/download/ and install node based on your operating system
-# 2_ after that install mongodb so go a head and install it from hear https://docs.mongodb.com/manual/installation/
-# choose your installation method based on OS
+hello guys this is a full rest nodejs api 
+to use this api follow thes steps
+ 1_ go to https://nodejs.org/en/download/ and install node based on your operating system
+ 2_ after that install mongodb so go a head and install it from hear https://docs.mongodb.com/manual/installation/
+ choose your installation method based on OS
 
-# 3_ copy project in your local machine 
-# go to inside of project folder mean us ====> run cmd or somthing like that |cd nodejs-full-rest-api-crud |
+ 3_ copy project in your local machine 
+ go to inside of project folder mean us ====> run cmd or somthing like that |cd nodejs-full-rest-api-crud |
 
-# 4_ npm install 
-# 5_ npm start 
+ 4_ npm install 
+ 5_ `npm start` 
 # 6_ install postman to test api https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
 
 # testing api by postmant
