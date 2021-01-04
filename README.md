@@ -11,33 +11,33 @@ to use this api follow thes steps
 
  4_ npm install 
  5_ `npm start` 
-# 6_ install postman to test api https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
+ 6_ install postman to test api https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=en
 
-# testing api by postmant
+testing api by postmant
 
-# 7_ GET  : localhost:4000/api/all  then send press key
-# 8_ GET  : localhost:4000/api/5fef3b8ee73108058c828f23  then send press key
-# 9_ POST   : localhost:4000/api/add  select body==>row==>JSON  after that make json object for example
+7_ GET  : localhost:4000/api/all  then send press key
+8_ GET  : localhost:4000/api/5fef3b8ee73108058c828f23  then send press key
+9_ POST   : localhost:4000/api/add  select body==>row==>JSON  after that make json object for example
 
- {
+ `{
   "userName": "somthing@vvv.com",
    "password": "123456",
    "fullName": "some body",
    "mobile":"0000000000"
- }
+ }`
 
  then press send key
  
-# 10_ PUT  : localhost:4000/api/update  
-{
+ 10_ PUT  : localhost:4000/api/update  
+`{
         "_id": "5fef530faafa1c2bf841abd6",
         "userName": "somthing you like",
         "password": "somthing you like",
         "fullName": "somthing you like" ,
         "mobile":"0000000000"
- }
+ }`
  
-# 7_ DELETE  : localhost:4000/api/delete/5fef530faafa1c2bf841abd6 
+ 7_ DELETE  : localhost:4000/api/delete/5fef530faafa1c2bf841abd6 
 
 
 
